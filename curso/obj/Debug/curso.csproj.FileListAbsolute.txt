@@ -1,0 +1,7 @@
+C:\Users\darla\OneDrive\Área de Trabalho\Udemy\C#\MiniProjetos\Projeto-Armazenar-Veículos\Resolução\curso\bin\Debug\curso.exe.config
+C:\Users\darla\OneDrive\Área de Trabalho\Udemy\C#\MiniProjetos\Projeto-Armazenar-Veículos\Resolução\curso\bin\Debug\curso.exe
+C:\Users\darla\OneDrive\Área de Trabalho\Udemy\C#\MiniProjetos\Projeto-Armazenar-Veículos\Resolução\curso\bin\Debug\curso.pdb
+C:\Users\darla\OneDrive\Área de Trabalho\Udemy\C#\MiniProjetos\Projeto-Armazenar-Veículos\Resolução\curso\obj\Debug\curso.csprojAssemblyReference.cache
+C:\Users\darla\OneDrive\Área de Trabalho\Udemy\C#\MiniProjetos\Projeto-Armazenar-Veículos\Resolução\curso\obj\Debug\curso.csproj.CoreCompileInputs.cache
+C:\Users\darla\OneDrive\Área de Trabalho\Udemy\C#\MiniProjetos\Projeto-Armazenar-Veículos\Resolução\curso\obj\Debug\curso.exe
+C:\Users\darla\OneDrive\Área de Trabalho\Udemy\C#\MiniProjetos\Projeto-Armazenar-Veículos\Resolução\curso\obj\Debug\curso.pdb
